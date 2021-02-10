@@ -8,7 +8,7 @@
 
 [제플린](https://zeplin.io/)
 
-# 2월 10일
+# 2월 9일
 
 [Paint it, Black](https://book.naver.com/bookdb/book_detail.nhn?bid=17848814) (한국 특별 양면 커버판) 요무 스타킹 화보 정발
 
