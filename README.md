@@ -1,6 +1,9 @@
 # openchat
 카톡 오픈챗 자료링크
 
+# 2월 11일
+
+[사진기반 3d모델 생성](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt)
 
 # 2월 10일
 
