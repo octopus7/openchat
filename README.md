@@ -12,3 +12,6 @@
 
 [Paint it, Black](https://book.naver.com/bookdb/book_detail.nhn?bid=17848814) (한국 특별 양면 커버판) 요무 스타킹 화보 정발
 
+# 2월 7일
+
+유니티 AAB 젠킨스 세팅 (http://lancekun.com/blog/?p=613)
