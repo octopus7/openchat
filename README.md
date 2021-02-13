@@ -1,6 +1,15 @@
 # openchat
 카톡 오픈챗 자료링크
 
+# 2월 13일
+
+[언리얼 툰쉐이딩](https://forums.unrealengine.com/development-discussion/rendering/1537277-toon-shading-models-stylized-rendering-experiments)
+
+# 2월 12일
+
+[블렌더 애드온 Weight Table](https://youtu.be/Q1yPAra_Bes)
+
+
 # 2월 11일
 
 [언리얼 메타 휴먼](https://youtu.be/_mpof3QZcJ8)
