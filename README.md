@@ -1,6 +1,11 @@
 # openchat
 카톡 오픈챗 자료링크
 
+# 3월 11일
+
+[언리얼 툰쉐이딩](https://qiita.com/ruyo/items/28255f26725a6b6bd475)
+[서브스턴스 수채화 느낌 배경](https://youtu.be/KPFep7SFIps)
+
 # 2월 13일
 
 [언리얼 툰쉐이딩](https://forums.unrealengine.com/development-discussion/rendering/1537277-toon-shading-models-stylized-rendering-experiments)
